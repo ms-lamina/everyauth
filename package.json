@@ -32,7 +32,7 @@
     "openid": "0.x",
     "xml2js": "0.x",
     "node-swt": "0.x",
-    "node-wsfederation": "0.x",
+    "node-wsfederation": "ms-lamina/node-wsfederation",
     "debug": "0.x",
     "express": "3.x"
   },
